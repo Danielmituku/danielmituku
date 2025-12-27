@@ -67,28 +67,28 @@ QA Engineer • Test Automation Specialist • MERN Stack Developer • AI/ML Le
 
 <p align="center">
   <a href="https://github.com/Danielmituku/Automaiton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Automaiton&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/pin/?username=Danielmituku&repo=Automaiton&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Danielmituku/stock-challenge-week1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=stock-challenge-week1&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/pin/?username=Danielmituku&repo=stock-challenge-week1&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Danielmituku/Learn-JavaScript-30-Days-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Learn-JavaScript-30-Days-Project&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/pin/?username=Danielmituku&repo=Learn-JavaScript-30-Days-Project&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Danielmituku/Natours">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Natours&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/pin/?username=Danielmituku&repo=Natours&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Danielmituku/CoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=CoApp&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/pin/?username=Danielmituku&repo=CoApp&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Danielmituku/Resturant-managment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Resturant-managment&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/pin/?username=Danielmituku&repo=Resturant-managment&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@ QA Engineer • Test Automation Specialist • MERN Stack Developer • AI/ML Le
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-tau-ten-52.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ QA Engineer • Test Automation Specialist • MERN Stack Developer • AI/ML Le
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-ten-52.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
