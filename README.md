@@ -64,11 +64,9 @@ Hands-on JS projects focused on fundamentals and problem-solving.
 👉 See pinned repositories below 👇
 
 ---
+## 📈 GitHub Activity
 
-## 📅 Contribution Activity
-
-![GitHub Contribution Graph](https://github.com/Danielmituku/Danielmituku/raw/output/github-contribution-grid-snake.svg)
-
+I actively contribute to my pinned repositories, including QA automation projects, MERN full-stack apps, and AI/ML challenges from 10 Academy. All work is publicly available here on GitHub.
 ---
 
 ## 🎯 Current Focus  
