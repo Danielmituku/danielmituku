@@ -54,33 +54,6 @@ QA Engineer • Test Automation Specialist • MERN Stack Developer • AI/ML Le
 
 ## 🌟 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/Danielmituku/Automaiton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Automaiton&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Danielmituku/stock-challenge-week1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=stock-challenge-week1&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Danielmituku/Learn-JavaScript-30-Days-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Learn-JavaScript-30-Days-Project&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Danielmituku/Natours">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Natours&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Danielmituku/CoApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=CoApp&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Danielmituku/Resturant-managment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Resturant-managment&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ### 📌 Project Highlights
 
 | Project | Description | Tech Stack |
@@ -92,20 +65,47 @@ QA Engineer • Test Automation Specialist • MERN Stack Developer • AI/ML Le
 | 🦠 **[CoApp](https://github.com/Danielmituku/CoApp)** | COVID-19 statistics dashboard with live data | JavaScript, React, API Integration |
 | 🍽️ **[Restaurant Manager](https://github.com/Danielmituku/Resturant-managment)** | Full restaurant management system | JavaScript, MERN Stack |
 
+<p align="center">
+  <a href="https://github.com/Danielmituku/Automaiton">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Automaiton&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/Danielmituku/stock-challenge-week1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=stock-challenge-week1&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Danielmituku/Learn-JavaScript-30-Days-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Learn-JavaScript-30-Days-Project&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/Danielmituku/Natours">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Natours&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Danielmituku/CoApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=CoApp&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/Danielmituku/Resturant-managment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danielmituku&repo=Resturant-managment&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielmituku&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Danielmituku&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
