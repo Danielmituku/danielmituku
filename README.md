@@ -1,50 +1,94 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">QA Engineer • Future AI Engineer • JavaScript & Test Automation Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Daniel Mituku</h1>
+<h3 align="center">
+QA Engineer • Test Automation Specialist • Full-Stack (MERN) Developer • AI/ML Learner
+</h3>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Playwright Testing**, **AI Engineering**, and **Automation Projects**  
-- 🌱 Learning **Machine Learning**, **Deep Learning**, and **Advanced QA**  
-- 🎯 Goal: Become a **senior AI Engineer** and build intelligent automation systems  
-- 👨‍💻 All my projects are available here on GitHub  
-- 💬 Ask me about **Playwright, JavaScript, AI tools, Test Automation, and CI/CD**
+## 👨‍💻 About Me  
+
+I’m a **QA Engineer at Auditorium**, where I work on ensuring product quality through **manual testing, test case design, and automated testing** for production systems used by real users.
+
+Alongside QA, I have hands-on experience with the **MERN stack** and have delivered a **client-based eCommerce application**, which helps me test applications with a strong developer mindset.
+
+I’m also currently enrolled in the **10 Academy AI Mastery Program (Week 6/12)**, where I work on weekly, hands-on projects focused on **data analysis, machine learning, and problem-solving**, all documented here on GitHub.
+
+I enjoy building, testing, and improving systems — from early MVPs to scalable applications.
 
 ---
 
-### 🔧 Tech Stack  
+## 🧪 QA & Test Automation
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Test Automation:**  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-**Dev Tools:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+- Manual Testing & Test Case Design  
+- Regression, Smoke & Exploratory Testing  
+- Playwright (End-to-End Testing)  
+- Jest (Unit & Integration Testing)  
+- API Testing  
+- CI/CD basics with GitHub Actions  
+- Agile & Remote Team Collaboration  
 
 ---
 
-### 🌟 Featured Projects  
+## 💻 Development Skills
 
-🚀 **QA Testing Platform** – End-to-end testing with Playwright  
-🔍 **JavaScript Mini Projects** – 30 projects in 30 days  
-🤖 **AI Automation Scripts** – ML-powered test tools  
-🌐 **Frontend Experiments** – HTML/CSS/JS interactive apps
+**Languages**
+- JavaScript
+- Python
+
+**Frontend**
+- React
+- HTML, CSS
+
+**Backend**
+- Node.js
+- Express
+
+**Database**
+- MongoDB
+
+**Other**
+- REST APIs
+- Git & GitHub
+- Docker (basic)
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+## 🤖 AI & Data (Learning)
+
+- Python for Data Analysis  
+- Pandas, NumPy  
+- Machine Learning fundamentals  
+- Weekly applied projects via **10 Academy**
 
 ---
 
-### 🌐 Connect With Me  
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-✉️ **Email:** youremail@example.com  
+## 📌 Featured Work
+
+- **QA Automation Projects**  
+  End-to-end test automation using Playwright and Jest for validating critical user flows.
+
+- **MERN eCommerce Application**  
+  A full-stack client project including authentication, product management, and order flows.
+
+- **10 Academy AI Mastery Challenges**  
+  Weekly projects covering data analysis and machine learning concepts using real datasets.
+
+👉 Check the pinned repositories below for detailed implementations.
+
+---
+
+## 🎯 Current Focus
+
+- Improving test automation frameworks  
+- Strengthening full-stack development skills  
+- Completing the AI Mastery program  
+- Exploring freelance opportunities in QA & web application testing  
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
+- ✉️ Email: your@email.com  
+
+Thanks for visiting my profile!
