@@ -65,11 +65,9 @@ Hands-on JS projects focused on fundamentals and problem-solving.
 
 ---
 
-## 📊 GitHub Stats
+## 📅 Contribution Activity
 
-![Daniel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight)
+![GitHub Contribution Graph](https://github.com/Danielmituku/Danielmituku/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
