@@ -65,12 +65,11 @@ Hands-on JS projects focused on fundamentals and problem-solving.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight" />
-</p>
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielmituku&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmituku&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
