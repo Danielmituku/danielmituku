@@ -63,11 +63,7 @@ Hands-on JS projects focused on fundamentals and problem-solving.
 
 👉 See pinned repositories below 👇
 
----
-## 📈 GitHub Activity
 
-I actively contribute to my pinned repositories, including QA automation projects, MERN full-stack apps, and AI/ML challenges from 10 Academy. All work is publicly available here on GitHub.
----
 
 ## 🎯 Current Focus  
 
